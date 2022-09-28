@@ -26,12 +26,18 @@ Font: blackletter</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>87</td>
+            <td>3</td>
+            <td>21</td>
+            <td>1</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>
@@ -60,7 +66,27 @@ Font: blackletter</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>calvi_beutelschneider01_1627</td>
+                  <td>21</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>87</td>
+                  <td>3</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
