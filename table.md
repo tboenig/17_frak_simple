@@ -239,6 +239,27 @@
                         </thead>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/17_frak_simple/blob/main/data/calvi_beutelschneider01_1627/GT-PAGE/calvi_beutelschneider01_1627_0013.xml">calvi_beutelschneider01_1627_0013.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/17_frak_simple/blob/main/data/calvi_beutelschneider01_1627/GT-PAGE/calvi_beutelschneider01_1627_0010.xml">calvi_beutelschneider01_1627_0010.xml</a>
                            </td>
                            <td>26</td>
@@ -265,27 +286,6 @@
                            <td>31</td>
                            <td>1</td>
                            <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_simple/blob/main/data/calvi_beutelschneider01_1627/GT-PAGE/calvi_beutelschneider01_1627_0013.xml">calvi_beutelschneider01_1627_0013.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
