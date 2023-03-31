@@ -190,7 +190,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_frak_simple/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
+         <a href="https://github.com/tboenig/17_frak_simple/releases/download/v1.0.1/bagitDump-v13.zip">Current version download: bagitDump-v13.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_frak_simple/releases">Version archive</a>
