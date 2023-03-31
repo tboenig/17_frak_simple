@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
 
 
-
 jobs:
   cli:
     name: makeBagit
