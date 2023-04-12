@@ -92,9 +92,8 @@
       </div>
    </div>
    <div id="extent">
-      <h2>Extent</h2>
-      <p>
-                                In this section they can insert additional information, instructions or notes.
-                            </p>
+      <h2>Data Dump</h2>
+      <p>You can download a so-called data dump (bagitDump.zip) with the release.<br/> 
+      This dump contains all ground truth data, the metadata (METS file), PAGE XML files and the images.</p>
    </div>
 </div>
