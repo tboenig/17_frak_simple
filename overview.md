@@ -153,25 +153,6 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>calvi_beutelschneider01_1627_0010.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>26</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>calvi_beutelschneider01_1627_0020.xml</th>
          <td>8</td>
          <td>0</td>
@@ -188,6 +169,25 @@
          <td>0</td>
          <td>0</td>
          <td>31</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>calvi_beutelschneider01_1627_0010.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>1</td>
       </tr>
    </tbody>
